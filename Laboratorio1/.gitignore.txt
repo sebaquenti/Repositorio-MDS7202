@@ -1,0 +1,6 @@
+logs/videos
+
+*.txt
+
+!171.txt
+
