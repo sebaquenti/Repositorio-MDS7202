@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/crist/Repositorio-MDS7202/Laboratorio%2012/mlruns/762676329051758688/fe19ceccde10475c98450fd4386d53dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '762676329051758688'
+lifecycle_stage: active
+run_id: fe19ceccde10475c98450fd4386d53dd
+run_name: sedate-fly-382
+run_uuid: fe19ceccde10475c98450fd4386d53dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732723828633
+status: 1
+tags: []
+user_id: crist

@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/crist/Repositorio-MDS7202/Laboratorio%2012/mlruns/762676329051758688
+creation_time: 1732723647583
+experiment_id: '762676329051758688'
+last_update_time: 1732723647583
+lifecycle_stage: active
+name: XGBoost_Optimization_Experiment

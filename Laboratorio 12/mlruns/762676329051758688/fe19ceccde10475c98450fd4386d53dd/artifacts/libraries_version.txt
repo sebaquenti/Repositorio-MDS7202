@@ -1,0 +1,3 @@
+Optuna: 3.6.1
+MLFlow: 2.18.0
+XGBoost: xgboost

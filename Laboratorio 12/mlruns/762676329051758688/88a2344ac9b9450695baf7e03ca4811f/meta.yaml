@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/crist/Repositorio-MDS7202/Laboratorio%2012/mlruns/762676329051758688/88a2344ac9b9450695baf7e03ca4811f/artifacts
+end_time: 1732723779275
+entry_point_name: ''
+experiment_id: '762676329051758688'
+lifecycle_stage: active
+run_id: 88a2344ac9b9450695baf7e03ca4811f
+run_name: XGBoost_lr_0.1286567583955081
+run_uuid: 88a2344ac9b9450695baf7e03ca4811f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732723775449
+status: 3
+tags: []
+user_id: crist
