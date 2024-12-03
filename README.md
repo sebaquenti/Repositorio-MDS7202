@@ -10,7 +10,7 @@ El curso está diseñado para proporcionar herramientas teóricas y prácticas e
 
 ## Estructura del Repositorio
 - **Carpetas de Laboratorios**: Cada laboratorio tiene su propia carpeta nombrada `Laboratorio {n}`, donde `{n}` representa el número del laboratorio.
-- **`proyecto/`**: Carpeta dedicada al desarrollo del proyecto final.
+- **`Proyecto Semestral`**: Carpeta dedicada al desarrollo del proyecto final.
 - **`README.md`**: Este archivo, que describe la estructura del repositorio y las reglas generales.
 
 ---
