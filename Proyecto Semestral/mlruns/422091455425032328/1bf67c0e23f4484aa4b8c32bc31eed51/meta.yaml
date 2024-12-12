@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/crist/Repositorio-MDS7202/Proyecto%20Semestral/mlruns/422091455425032328/1bf67c0e23f4484aa4b8c32bc31eed51/artifacts
+end_time: 1734014777146
+entry_point_name: ''
+experiment_id: '422091455425032328'
+lifecycle_stage: active
+run_id: 1bf67c0e23f4484aa4b8c32bc31eed51
+run_name: XGBoost Pipeline - Entrenamiento Completo
+run_uuid: 1bf67c0e23f4484aa4b8c32bc31eed51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734014621203
+status: 3
+tags: []
+user_id: crist

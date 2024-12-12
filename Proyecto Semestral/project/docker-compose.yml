@@ -1,0 +1,16 @@
+services:
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/model:/app/model
+
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "7860:7860"
+    depends_on:
+      - backend

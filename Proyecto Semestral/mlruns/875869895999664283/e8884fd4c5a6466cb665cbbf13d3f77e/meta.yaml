@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/crist/Repositorio-MDS7202/Proyecto%20Semestral/mlruns/875869895999664283/e8884fd4c5a6466cb665cbbf13d3f77e/artifacts
+end_time: 1733976866873
+entry_point_name: ''
+experiment_id: '875869895999664283'
+lifecycle_stage: active
+run_id: e8884fd4c5a6466cb665cbbf13d3f77e
+run_name: nimble-grouse-593
+run_uuid: e8884fd4c5a6466cb665cbbf13d3f77e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733976539716
+status: 3
+tags: []
+user_id: crist
