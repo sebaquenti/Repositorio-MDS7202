@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/crist/Repositorio-MDS7202/Proyecto%20Semestral/mlruns/422091455425032328/dde20032761b498cb974011ad0c627a0/artifacts
+end_time: 1734013019588
+entry_point_name: ''
+experiment_id: '422091455425032328'
+lifecycle_stage: active
+run_id: dde20032761b498cb974011ad0c627a0
+run_name: XGBoost - Reentrenamiento con Datos t1
+run_uuid: dde20032761b498cb974011ad0c627a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734012912374
+status: 3
+tags: []
+user_id: crist

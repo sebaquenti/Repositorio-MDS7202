@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734014777116
+current_stage: None
+description: null
+last_updated_timestamp: 1734014777116
+name: XGBoostPipeline
+run_id: 1bf67c0e23f4484aa4b8c32bc31eed51
+run_link: null
+source: file:///c:/Users/crist/Repositorio-MDS7202/Proyecto%20Semestral/mlruns/422091455425032328/1bf67c0e23f4484aa4b8c32bc31eed51/artifacts/xgb_pipeline_completo
+status: READY
+status_message: null
+storage_location: file:///c:/Users/crist/Repositorio-MDS7202/Proyecto%20Semestral/mlruns/422091455425032328/1bf67c0e23f4484aa4b8c32bc31eed51/artifacts/xgb_pipeline_completo
+user_id: null
+version: 1
